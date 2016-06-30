@@ -8917,3 +8917,151 @@ body {
 .waterStation .feature {
   padding: 30px 0;
 }
+/* line 94, ../sass/index.scss */
+.waterStation .bg-white {
+  background-color: #fff;
+}
+/* line 97, ../sass/index.scss */
+.waterStation .p-y-xl {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+/* line 101, ../sass/index.scss */
+.waterStation .b-b {
+  border-top: 1px solid rgba(0, 40, 70, 0.3);
+}
+/* line 104, ../sass/index.scss */
+.waterStation .m-b-md {
+  margin-bottom: 24px;
+}
+/* line 107, ../sass/index.scss */
+.waterStation .m-t {
+  margin-top: 16px !important;
+}
+/* line 110, ../sass/index.scss */
+.waterStation .fa-4x {
+  font-size: 4em;
+}
+/* line 113, ../sass/index.scss */
+.waterStation .m-t-0 {
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+/* line 117, ../sass/index.scss */
+.waterStation .wrap {
+  width: 100%;
+  margin: 0 auto;
+}
+/* line 121, ../sass/index.scss */
+.waterStation .ptbg2 {
+  background-color: #049fbb;
+  height: auto;
+  padding: 50px 15px;
+  text-align: center;
+  color: #fff;
+}
+/* line 128, ../sass/index.scss */
+.waterStation .pjbg {
+  margin: 50px auto 20px;
+  background-color: #028AA2;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: table;
+}
+/* line 135, ../sass/index.scss */
+.waterStation .pjbg span {
+  font-size: 40px;
+  color: #fff;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+/* line 147, ../sass/index.scss */
+.waterStation .pjbg img {
+  width: 70%;
+  max-width: 100%;
+}
+/* line 152, ../sass/index.scss */
+.waterStation .coustomer {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+/* line 157, ../sass/index.scss */
+.waterStation .coustomerName {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+/* line 163, ../sass/index.scss */
+.waterStation .company {
+  margin: 0 0 10px;
+}
+/* line 166, ../sass/index.scss */
+.waterStation .info {
+  width: auto;
+  height: auto;
+  margin-top: 20px;
+  padding: 30px 20px;
+  background-color: #028AA2;
+}
+/* line 172, ../sass/index.scss */
+.waterStation .info p {
+  text-align: left;
+  font-size: 12px;
+  line-height: 1.5em;
+}
+/* line 178, ../sass/index.scss */
+.waterStation .homer {
+  text-align: center;
+  margin: 100px 0 50px 0;
+}
+/* line 181, ../sass/index.scss */
+.waterStation .homer p {
+  color: #888;
+}
+/* line 185, ../sass/index.scss */
+.waterStation .contact {
+  padding: 30px;
+  display: inline-block;
+}
+/* line 188, ../sass/index.scss */
+.waterStation .contact .fa {
+  color: #666;
+  font-size: 16px;
+  padding: 8px;
+  background: #049fbb;
+  color: #fff;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  margin-right: 5px;
+  display: inline-block;
+  font-size: 2em;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* line 209, ../sass/index.scss */
+.waterStation .contact span {
+  color: #049fbb;
+  font-size: 38px;
+}
+/* line 214, ../sass/index.scss */
+.waterStation .list-inline {
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+}
