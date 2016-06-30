@@ -1,2 +1,4 @@
 .sass-cache/
 .git/
+.idea/
+node_modules/
