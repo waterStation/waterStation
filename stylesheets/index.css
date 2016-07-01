@@ -9065,3 +9065,61 @@ body {
   margin-left: -5px;
   list-style: none;
 }
+/* line 219, ../sass/index.scss */
+.waterStation .cumulative {
+  position: relative;
+  min-height: 200px;
+  padding: 30px;
+  text-align: center;
+  background: url(../images/collage.jpg) center center;
+  background-size: auto 200px;
+}
+/* line 226, ../sass/index.scss */
+.waterStation .cumulative h3 {
+  font-size: 36px;
+  font-weight: 900;
+  position: relative;
+  margin-top: 10px;
+  padding-bottom: 5px;
+  color: #fff;
+}
+/* line 234, ../sass/index.scss */
+.waterStation .cumulative p {
+  font-size: 16px;
+  margin: 10px 0 20px;
+  color: #dadada;
+}
+/* line 240, ../sass/index.scss */
+.waterStation .section-content {
+  padding-top: 200px;
+}
+/* line 243, ../sass/index.scss */
+.waterStation .section-title {
+  font-size: 30px;
+  text-align: center;
+  color: #f9f9f9;
+  font-family: lingxin,'Microsoft YaHei','YaHei WebFont',Verdana,Geneva,Tahoma,sans-serif,'宋体';
+  font-style: italic;
+}
+/* line 250, ../sass/index.scss */
+.waterStation .highlight {
+  margin-left: 4px;
+  margin-right: 4px;
+  font-size: 1.2em;
+  color: #00c2ff;
+}
+/* line 256, ../sass/index.scss */
+.waterStation .splitter {
+  margin: 30px 0 50px;
+  text-align: center;
+}
+/* line 260, ../sass/index.scss */
+.waterStation .section2 {
+  background: url("../images/banner01.jpg") no-repeat center center;
+  background-size: cover;
+}
+/* line 264, ../sass/index.scss */
+.waterStation .lianxi {
+  color: #fff;
+  padding: 10px 0;
+}

@@ -216,5 +216,54 @@ body{
 		margin-left: -5px;
 		list-style: none;
 	}
-
+	.cumulative {
+		position: relative;
+		min-height: 200px;
+		padding: 30px;
+		text-align: center;
+		background: url(../images/collage.jpg) center center;
+		background-size: auto 200px;
+		h3 {
+			font-size: 36px;
+			font-weight: 900;
+			position: relative;
+			margin-top: 10px;
+			padding-bottom: 5px;
+			color: #fff;
+		}
+		p {
+			font-size: 16px;
+			margin: 10px 0 20px;
+			color: #dadada;
+		}
+	}
+	.section-content {
+		padding-top: 200px;
+	}
+	.section-title {
+		font-size: 30px;
+		text-align: center;
+		color: #f9f9f9;
+		font-family: lingxin,'Microsoft YaHei','YaHei WebFont',Verdana,Geneva,Tahoma,sans-serif,'宋体';
+		font-style: italic;
+	}
+	.highlight {
+		margin-left: 4px;
+		margin-right: 4px;
+		font-size: 1.2em;
+		color: #00c2ff;
+	}
+	.splitter {
+		margin: 30px 0 50px;
+		text-align: center;
+	}
+	.section2{
+		background: url('../images/banner01.jpg') no-repeat center center;
+		background-size: cover;
+	}
+	.lianxi{
+		color: #fff;
+		padding: 10px 0;
+	}
 }
+
