@@ -13,27 +13,6 @@ body{
 		float: right;
 	}
 }
-//.navbar-default .navbar-nav > a,
-//.navbar-default .navbar-nav > a:hover,
-//.navbar-default .navbar-nav > a:focus{
-//	background-color: #4D0B33;
-//	color: #fff;
-//}
-//.nav-pills{
-//	float: right;
-//}
-//.navbar-default{
-//	background-color: #C70757;
-//}
-//.navbar-default {
-//	.navbar-nav > .active > a{
-//		background-color: #4D0B33;
-//		color: #fff;
-//	}
-//	.navbar-nav > li >a {
-//		color: #fff;
-//	}
-//}
 .waterStation{
 	.carousel{
 		height: 500px;
@@ -237,8 +216,15 @@ body{
 			color: #dadada;
 		}
 	}
-	.section-content {
-		padding-top: 200px;
+	.col-md-3{
+		.section-content {
+			padding-top: 200px;
+		}
+	}
+	.col-xs-6{
+		.section-content {
+			padding: 70px 0;
+		}
 	}
 	.section-title {
 		font-size: 30px;
