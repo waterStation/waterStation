@@ -22,6 +22,7 @@ body{
 		img{
 			width: 100%;
 			min-height: 300px;
+			height: 500px;
 		}
 	}
 	@media (max-width: 768px){
@@ -35,6 +36,12 @@ body{
 		.feature-heading .text-muted {
 			font-size: 22px;
 		}
+	}
+	.borderRadius{
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+		overflow: hidden;
 	}
 	@media (min-width: 992px){
 		.feature-heading {
@@ -216,15 +223,8 @@ body{
 			color: #dadada;
 		}
 	}
-	.col-md-3{
-		.section-content {
-			padding-top: 200px;
-		}
-	}
-	.col-xs-6{
-		.section-content {
-			padding: 70px 0;
-		}
+	.section-content {
+		padding: 70px 0;
 	}
 	.section-title {
 		font-size: 30px;
