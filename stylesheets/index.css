@@ -8857,25 +8857,29 @@ body {
 /* line 22, ../sass/index.scss */
 .waterStation .item img {
   width: 100%;
-  min-height: 300px;
   height: 500px;
 }
 @media (max-width: 768px) {
-  /* line 29, ../sass/index.scss */
+  /* line 28, ../sass/index.scss */
   .waterStation .carousel {
     height: 300px;
     margin-bottom: 60px;
   }
-  /* line 33, ../sass/index.scss */
+  /* line 32, ../sass/index.scss */
   .waterStation .feature-heading {
     font-size: 34px;
   }
-  /* line 36, ../sass/index.scss */
+  /* line 35, ../sass/index.scss */
   .waterStation .feature-heading .text-muted {
     font-size: 22px;
   }
+  /* line 39, ../sass/index.scss */
+  .waterStation .item img {
+    width: 100%;
+    max-height: 300px;
+  }
 }
-/* line 40, ../sass/index.scss */
+/* line 45, ../sass/index.scss */
 .waterStation .borderRadius {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -8883,84 +8887,84 @@ body {
   overflow: hidden;
 }
 @media (min-width: 992px) {
-  /* line 47, ../sass/index.scss */
+  /* line 52, ../sass/index.scss */
   .waterStation .feature-heading {
     margin-top: 120px;
   }
 }
-/* line 51, ../sass/index.scss */
+/* line 56, ../sass/index.scss */
 .waterStation .feature-heading {
   font-size: 50px;
   color: #2a6496;
   margin-bottom: 10px;
 }
-/* line 55, ../sass/index.scss */
+/* line 60, ../sass/index.scss */
 .waterStation .feature-heading .text-muted {
   font-size: 28px;
 }
-/* line 59, ../sass/index.scss */
+/* line 64, ../sass/index.scss */
 .waterStation .col-md-4 {
   text-align: center;
   margin-bottom: 20px;
 }
-/* line 62, ../sass/index.scss */
+/* line 67, ../sass/index.scss */
 .waterStation .col-md-4 h2 {
   font-size: 30px;
   padding: 20px 0;
 }
-/* line 66, ../sass/index.scss */
+/* line 71, ../sass/index.scss */
 .waterStation .col-md-4 p {
   font-size: 14px;
   line-height: 1.5em;
 }
-/* line 70, ../sass/index.scss */
+/* line 75, ../sass/index.scss */
 .waterStation .col-md-4 .btn {
   margin: 15px 0;
 }
-/* line 74, ../sass/index.scss */
+/* line 79, ../sass/index.scss */
 .waterStation .feature-divider {
   margin: 40px 0;
 }
-/* line 77, ../sass/index.scss */
+/* line 82, ../sass/index.scss */
 .waterStation .feature {
   padding: 30px 0;
 }
-/* line 80, ../sass/index.scss */
+/* line 85, ../sass/index.scss */
 .waterStation .bg-white {
   background-color: #fff;
 }
-/* line 83, ../sass/index.scss */
+/* line 88, ../sass/index.scss */
 .waterStation .p-y-xl {
   padding-top: 80px;
   padding-bottom: 80px;
 }
-/* line 87, ../sass/index.scss */
+/* line 92, ../sass/index.scss */
 .waterStation .b-b {
   border-top: 1px solid rgba(0, 40, 70, 0.3);
 }
-/* line 90, ../sass/index.scss */
+/* line 95, ../sass/index.scss */
 .waterStation .m-b-md {
   margin-bottom: 24px;
 }
-/* line 93, ../sass/index.scss */
+/* line 98, ../sass/index.scss */
 .waterStation .m-t {
   margin-top: 16px !important;
 }
-/* line 96, ../sass/index.scss */
+/* line 101, ../sass/index.scss */
 .waterStation .fa-4x {
   font-size: 4em;
 }
-/* line 99, ../sass/index.scss */
+/* line 104, ../sass/index.scss */
 .waterStation .m-t-0 {
   margin-top: 24px;
   margin-bottom: 12px;
 }
-/* line 103, ../sass/index.scss */
+/* line 108, ../sass/index.scss */
 .waterStation .wrap {
   width: 100%;
   margin: 0 auto;
 }
-/* line 107, ../sass/index.scss */
+/* line 112, ../sass/index.scss */
 .waterStation .ptbg2 {
   background-color: #049fbb;
   height: auto;
@@ -8968,7 +8972,7 @@ body {
   text-align: center;
   color: #fff;
 }
-/* line 114, ../sass/index.scss */
+/* line 119, ../sass/index.scss */
 .waterStation .pjbg {
   margin: 50px auto 20px;
   background-color: #028AA2;
@@ -8977,7 +8981,7 @@ body {
   border-radius: 50%;
   display: table;
 }
-/* line 121, ../sass/index.scss */
+/* line 126, ../sass/index.scss */
 .waterStation .pjbg span {
   font-size: 40px;
   color: #fff;
@@ -8990,29 +8994,29 @@ body {
   -o-border-radius: 50%;
   border-radius: 50%;
 }
-/* line 133, ../sass/index.scss */
+/* line 138, ../sass/index.scss */
 .waterStation .pjbg img {
   width: 70%;
   max-width: 100%;
 }
-/* line 138, ../sass/index.scss */
+/* line 143, ../sass/index.scss */
 .waterStation .coustomer {
   margin-top: 20px;
   margin-bottom: 10px;
   font-size: 24px;
 }
-/* line 143, ../sass/index.scss */
+/* line 148, ../sass/index.scss */
 .waterStation .coustomerName {
   margin-top: 10px;
   margin-bottom: 10px;
   font-size: 18px;
   font-weight: bold;
 }
-/* line 149, ../sass/index.scss */
+/* line 154, ../sass/index.scss */
 .waterStation .company {
   margin: 0 0 10px;
 }
-/* line 152, ../sass/index.scss */
+/* line 157, ../sass/index.scss */
 .waterStation .info {
   width: auto;
   height: auto;
@@ -9020,27 +9024,27 @@ body {
   padding: 30px 20px;
   background-color: #028AA2;
 }
-/* line 158, ../sass/index.scss */
+/* line 163, ../sass/index.scss */
 .waterStation .info p {
   text-align: left;
   font-size: 12px;
   line-height: 1.5em;
 }
-/* line 164, ../sass/index.scss */
+/* line 169, ../sass/index.scss */
 .waterStation .homer {
   text-align: center;
   margin: 100px 0 50px 0;
 }
-/* line 167, ../sass/index.scss */
+/* line 172, ../sass/index.scss */
 .waterStation .homer p {
   color: #888;
 }
-/* line 171, ../sass/index.scss */
+/* line 176, ../sass/index.scss */
 .waterStation .contact {
   padding: 30px;
   display: inline-block;
 }
-/* line 174, ../sass/index.scss */
+/* line 179, ../sass/index.scss */
 .waterStation .contact .fa {
   color: #666;
   font-size: 16px;
@@ -9062,18 +9066,18 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-/* line 195, ../sass/index.scss */
+/* line 200, ../sass/index.scss */
 .waterStation .contact span {
   color: #049fbb;
   font-size: 38px;
 }
-/* line 200, ../sass/index.scss */
+/* line 205, ../sass/index.scss */
 .waterStation .list-inline {
   padding-left: 0;
   margin-left: -5px;
   list-style: none;
 }
-/* line 205, ../sass/index.scss */
+/* line 210, ../sass/index.scss */
 .waterStation .cumulative {
   position: relative;
   min-height: 200px;
@@ -9082,7 +9086,7 @@ body {
   background: url(../images/collage.jpg) center center;
   background-size: auto 200px;
 }
-/* line 212, ../sass/index.scss */
+/* line 217, ../sass/index.scss */
 .waterStation .cumulative h3 {
   font-size: 36px;
   font-weight: 900;
@@ -9091,17 +9095,17 @@ body {
   padding-bottom: 5px;
   color: #fff;
 }
-/* line 220, ../sass/index.scss */
+/* line 225, ../sass/index.scss */
 .waterStation .cumulative p {
   font-size: 16px;
   margin: 10px 0 20px;
   color: #dadada;
 }
-/* line 226, ../sass/index.scss */
+/* line 231, ../sass/index.scss */
 .waterStation .section-content {
   padding: 70px 0;
 }
-/* line 229, ../sass/index.scss */
+/* line 234, ../sass/index.scss */
 .waterStation .section-title {
   font-size: 30px;
   text-align: center;
@@ -9109,29 +9113,42 @@ body {
   font-family: lingxin,'Microsoft YaHei','YaHei WebFont',Verdana,Geneva,Tahoma,sans-serif,'宋体';
   font-style: italic;
 }
-/* line 236, ../sass/index.scss */
+/* line 241, ../sass/index.scss */
 .waterStation .highlight {
   margin-left: 4px;
   margin-right: 4px;
   font-size: 1.2em;
   color: #00c2ff;
 }
-/* line 242, ../sass/index.scss */
+/* line 247, ../sass/index.scss */
 .waterStation .splitter {
   margin: 30px 0 50px;
   text-align: center;
 }
-/* line 246, ../sass/index.scss */
+/* line 251, ../sass/index.scss */
 .waterStation .section2 {
   background: url("../images/banner01.jpg") no-repeat center center;
   background-size: cover;
 }
-/* line 250, ../sass/index.scss */
+/* line 255, ../sass/index.scss */
 .waterStation .lianxi {
   color: #fff;
   padding: 10px 0;
 }
-/* line 254, ../sass/index.scss */
+/* line 259, ../sass/index.scss */
 .waterStation img {
   width: 100%;
+}
+/* line 262, ../sass/index.scss */
+.waterStation .prod-title {
+  text-align: center;
+  color: #2a6496;
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+
+/* line 269, ../sass/index.scss */
+.modal-body-p {
+  text-indent: 2em;
+  line-height: 2em;
 }

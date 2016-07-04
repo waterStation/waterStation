@@ -21,7 +21,6 @@ body{
 	.item{
 		img{
 			width: 100%;
-			min-height: 300px;
 			height: 500px;
 		}
 	}
@@ -35,6 +34,12 @@ body{
 		}
 		.feature-heading .text-muted {
 			font-size: 22px;
+		}
+		.item{
+			img{
+				width: 100%;
+				max-height: 300px;
+			}
 		}
 	}
 	.borderRadius{
@@ -254,5 +259,14 @@ body{
 	img{
 		width: 100%;
 	}
+	.prod-title{
+		text-align: center;
+		color:#2a6496;
+		margin-bottom: 20px;
+		font-size: 40px
+	}
 }
-
+.modal-body-p{
+	text-indent: 2em;
+	line-height: 2em;
+}
